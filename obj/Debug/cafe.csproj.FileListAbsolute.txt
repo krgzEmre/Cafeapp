@@ -1,0 +1,12 @@
+C:\Users\krgze\source\repos\cafe\cafe\bin\Debug\cafe.exe.config
+C:\Users\krgze\source\repos\cafe\cafe\bin\Debug\cafe.exe
+C:\Users\krgze\source\repos\cafe\cafe\bin\Debug\cafe.pdb
+C:\Users\krgze\source\repos\cafe\cafe\obj\Debug\cafe.csproj.AssemblyReference.cache
+C:\Users\krgze\source\repos\cafe\cafe\obj\Debug\cafe.csproj.SuggestedBindingRedirects.cache
+C:\Users\krgze\source\repos\cafe\cafe\obj\Debug\cafe.Form1.resources
+C:\Users\krgze\source\repos\cafe\cafe\obj\Debug\cafe.Properties.Resources.resources
+C:\Users\krgze\source\repos\cafe\cafe\obj\Debug\cafe.csproj.GenerateResource.cache
+C:\Users\krgze\source\repos\cafe\cafe\obj\Debug\cafe.csproj.CoreCompileInputs.cache
+C:\Users\krgze\source\repos\cafe\cafe\obj\Debug\cafe.exe
+C:\Users\krgze\source\repos\cafe\cafe\obj\Debug\cafe.pdb
+C:\Users\krgze\source\repos\cafe\cafe\obj\Debug\cafe.Form2.resources
